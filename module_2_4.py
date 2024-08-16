@@ -8,6 +8,16 @@
 Вывод на консоль:
 Primes: [2, 3, 5, 7, 11, 13]
 Not Primes: [4, 6, 8, 9, 10, 12, 14, 15]
+
+Натуральное число, большее 1, называется простым, если оно ни на что не делится, кроме себя и 1
+
+Пункты задачи:
+1. Создайте пустые списки primes и not_primes.
+2. При помощи цикла for переберите список numbers.
+3. Напишите ещё один цикл for (вложенный), где будут подбираться делители для числа из 1ого цикла.
+4. Отметить простоту числа можно переменной is_prime, записав в неё занчение True перед проверкой.
+5. В процессе проверки на простоту записывайте числа из списка numbers в списки primes и not_primes в зависимости от значения переменной is_prime после проверки (True - в prime, False - в not_prime).
+6. Выведите списки primes и not_primes на экран(в консоль).
 """
 import math
 from time import sleep
@@ -18,9 +28,11 @@ not_primes = []
 is_prime = None
 div = 2
 
+# Цикл для перебора списка с данными
 for n in numbers:
-    if n == 1:
-        print('Единица')
+    # Сразу отметаем единицу т.к. она не является простым числом
+    if n != 1:
+        print(f'{n}')
     else:
         for i in range(2, int(n**0.5) + 1):
             if n % i == 0:
@@ -44,6 +56,6 @@ for n in numbers:
     #     number_sqrt = int(math.sqrt(i))
     #     print(number_sqrt)
 
-print(numbers)
-print(f'Составные числа: {primes}')
-print(f'Простые числа: {not_primes}')
+# print(numbers)
+# print(f'Составные числа: {primes}')
+# print(f'Простые числа: {not_primes}')
