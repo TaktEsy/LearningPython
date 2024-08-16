@@ -18,16 +18,15 @@ not_primes = []
 is_prime = None
 div = 2
 
-
 for n in numbers:
-    if n <=1 or n == 0:
-        is_prime = False
-        continue
+    if n == 1:
+        print('Единица')
     else:
-        is_prime == True
-        print(n)
-        while is_prime:
-            primes.append(n)
+        for i in range(2, int(n**0.5) + 1):
+            if n % i == 0:
+                not_primes.append(n)
+            else:
+               primes.append(n)
     # else:
     #     for divr in range(2, int(n**0.5 + 1)):
     #         if n % divr == 0:
@@ -46,5 +45,5 @@ for n in numbers:
     #     print(number_sqrt)
 
 print(numbers)
-print(f'Простые числа: {primes}')
-print(f'Не простые числа: {not_primes}')
+print(f'Составные числа: {primes}')
+print(f'Простые числа: {not_primes}')
