@@ -4,6 +4,10 @@
 Используя этот список составьте второй список primes содержащий только простые числа.
 А так же третий список not_primes, содержащий все не простые числа.
 Выведите списки primes и not_primes на экран(в консоль).
+
+Вывод на консоль:
+Primes: [2, 3, 5, 7, 11, 13]
+Not Primes: [4, 6, 8, 9, 10, 12, 14, 15]
 """
 import math
 from time import sleep
@@ -11,15 +15,19 @@ from time import sleep
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 primes = []
 not_primes = []
-is_prime = True
+is_prime = None
 div = 2
 
+
 for n in numbers:
-    if n <=1:
+    if n <=1 or n == 0:
         is_prime = False
+        continue
     else:
-        is_prime == False
+        is_prime == True
         print(n)
+        while is_prime:
+            primes.append(n)
     # else:
     #     for divr in range(2, int(n**0.5 + 1)):
     #         if n % divr == 0:
@@ -36,7 +44,7 @@ for n in numbers:
     # if i >= 2:
     #     number_sqrt = int(math.sqrt(i))
     #     print(number_sqrt)
-sleep(10000000)
+
 print(numbers)
-print(primes)
-print(not_primes)
+print(f'Простые числа: {primes}')
+print(f'Не простые числа: {not_primes}')
