@@ -20,7 +20,6 @@ Not Primes: [4, 6, 8, 9, 10, 12, 14, 15]
 6. Выведите списки primes и not_primes на экран(в консоль).
 """
 import math
-from time import sleep
 
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 primes = []
@@ -33,12 +32,15 @@ for n in numbers:
     # Сразу отметаем единицу т.к. она не является простым числом
     if n != 1:
         print(f'{n}')
-    else:
-        for i in range(2, int(n**0.5) + 1):
+        sq = math.sqrt(n)
+        for i in range(2, sq + 1):
             if n % i == 0:
                 not_primes.append(n)
             else:
                primes.append(n)
+    else:
+        print('')
+
     # else:
     #     for divr in range(2, int(n**0.5 + 1)):
     #         if n % divr == 0:
