@@ -8,10 +8,8 @@ def get_matrix(n,m,value):
     if n != 0 and m != 0:
         for w in range(0, n):
             matrix.append(list())
-            # print(w)
             for r in range(0, m):
                 matrix[w].append(value)
-                print(r)
     else:
         print('Создание нулевой матрицы недопустимо')
         return False
