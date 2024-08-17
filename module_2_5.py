@@ -24,15 +24,17 @@
 def get_matrix(n,m,value):
     # Сама матрица
     matrix = []
-    print(f'Кол-во строк: {n}; Кол-во столбцов: {m}')
+    print(f'Кол-во строк: {n}; Кол-во столбцов: {m}; Значения: {value}')
     if n != 0 and m != 0:
-        for w in range(1, n + 1):
-            print(w)
-            matrix.append([])
-            print(matrix)
+        for w in range(0, n):
+            matrix.append(list())
+            # print(w)
+            for r in range(0, m):
+                matrix[w].append(value)
+                print(r)
     else:
         print('Создание нулевой матрицы недопустимо')
         return False
+    return matrix
 
-
-get_matrix(1, 1, None)
+print("Результат функции: ", get_matrix(2,2,10))
