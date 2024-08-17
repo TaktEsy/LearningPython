@@ -17,4 +17,4 @@ def get_matrix(n,m,value):
         return False
     return matrix
 
-print("Результат функции: ", get_matrix(30,2,10))
+print("Результат функции: ", get_matrix(2,2,10))
