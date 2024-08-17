@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
+    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Создает простую матрицу в рамках задания">
+      <change afterPath="$PROJECT_DIR$/module_2_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,7 @@
     "Python.module_2_3.executor": "Run",
     "Python.module_2_4.executor": "Run",
     "Python.module_2_5.executor": "Run",
+    "Python.module_2_6.executor": "Debug",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -239,7 +240,39 @@
       <option name="project" value="LOCAL" />
       <updated>1723918291224</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1723921843609</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1723921843609</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1723922029921</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1723922029921</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1723922079978</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1723922079978</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Создает простую матрицу в рамках задания">
+      <option name="closed" value="true" />
+      <created>1723922208373</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1723922208373</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,7 +288,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Создает простую матрицу в рамках задания" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создает простую матрицу в рамках задания" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
