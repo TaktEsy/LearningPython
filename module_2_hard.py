@@ -1,14 +1,10 @@
 import random
-# s1 = random.randint(3, 20)
-# rand = 5
-# password = str()
-
 rand = random.randint(3, 20)
 
 """
     В одну строку склеивать такие две цифры, 
-    которые в сумме кратны тому или иному числу
-    в диапазоне от 
+    которые в сумме равны случайному числу от 3 до 20 включительно
+    и вдобавок делятся на него без остатка
 """
 if rand >= 3 and rand <= 20:
     password = ''
@@ -23,16 +19,4 @@ if rand >= 3 and rand <= 20:
 else:
     print(f"Число не входит область допустимых значений")
 
-# print(j)
-# p = j+j+1
-# p2 = rand % p
-# print(p2)
-# if p2 == 0:
-#     print(p2)
 
-# #if j < rand:
-#     # print(j)
-#     if rand % sum(rand, j):
-#         print(j)
-
-# print(f'Пароль для числа {rand}: {password}')
