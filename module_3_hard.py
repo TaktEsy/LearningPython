@@ -11,7 +11,7 @@ len_sum = 0
 def sum_len(*args):
     global num_sum, len_sum
     args_len = args.__len__()
-    print(f"=========================")
+    print(f"==========================")
     print(f"Полученные данные: {args}")
     print(f"Кол-во элементов: {len(args)}")
     print(f"-------")
