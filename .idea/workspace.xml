@@ -4,25 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/output/module_3_calc.exe" afterDir="false" />
+    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Refactored structure. Moved completed tasks in new folders">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fake_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/m4/fake_math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/m2/module_2_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/m2/module_2_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/m2/module_2_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/m2/module_2_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/m2/module_2_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/m2/module_2_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/m2/module_2_hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/m3/module_3_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/m3/module_3_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/m3/module_3_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_3_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/m3/module_3_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_3_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/m3/module_3_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_3_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/m3/module_3_calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_3_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/m3/module_3_hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/m4/module_4_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2/rt.py" beforeDir="false" afterPath="$PROJECT_DIR$/m4/true_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m4/fake_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/m4/fake_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m4/module_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/m4/module_4_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,11 +69,20 @@
     "Python.module_3_calc.executor": "Run",
     "Python.module_3_hard.executor": "Run",
     "Python.module_3_hard2.executor": "Run",
+    "Python.module_4_1.executor": "Run",
     "Python.test.executor": "Debug",
+    "Python.true_math.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m4" />
+      <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m3" />
+      <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m2" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="module_2_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pyProj2" />
@@ -480,7 +475,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725202864097</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Refactored structure. Moved completed tasks in new folders">
+      <option name="closed" value="true" />
+      <created>1725203152202</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1725203152202</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +503,8 @@
     <MESSAGE value="Калькулятор&#10;Для практики" />
     <MESSAGE value="Добавлена работоспособность кнопок" />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Refactored structure. Moved completed tasks in new folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored structure. Moved completed tasks in new folders" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
