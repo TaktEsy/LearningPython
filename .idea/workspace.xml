@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Refactored structure. Moved completed tasks in new folders">
+    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/m4/module_4_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m2/rt.py" beforeDir="false" afterPath="$PROJECT_DIR$/m4/true_math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m4/fake_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/m4/fake_math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m4/module_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/m4/module_4_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +68,7 @@
     "Python.module_3_hard.executor": "Run",
     "Python.module_3_hard2.executor": "Run",
     "Python.module_4_1.executor": "Run",
+    "Python.module_4_2.executor": "Run",
     "Python.test.executor": "Debug",
     "Python.true_math.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -483,7 +482,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725203152202</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1725283153088</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1725283153088</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,9 +509,9 @@
     <MESSAGE value="Крестики-нолики" />
     <MESSAGE value="Калькулятор&#10;Для практики" />
     <MESSAGE value="Добавлена работоспособность кнопок" />
-    <MESSAGE value="Commit" />
     <MESSAGE value="Refactored structure. Moved completed tasks in new folders" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored structure. Moved completed tasks in new folders" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
