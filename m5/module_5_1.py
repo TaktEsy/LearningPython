@@ -13,5 +13,5 @@ class House:
 
 
 
-h1 = House('ЖК Ромашка', 1)
-h1.go_to(1)
+h1 = House('ЖК Ромашка', 10)
+h1.go_to(5)
