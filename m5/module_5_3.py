@@ -41,7 +41,7 @@ class House:
         return self.number_of_floors != value.number_of_floors
 
     def __add__(self, value):
-        if not isinstance(self.number_of_floors, int) or not isinstance(other, int):
+        if not isinstance(value, int):
             raise TypeError("Этажи должны быть целым числом!")
         return self.number_of_floors + value
 
