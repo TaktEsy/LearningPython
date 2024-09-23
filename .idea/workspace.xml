@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/m5/module_5_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/m5/module_5_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,37 +49,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.module_2_1.executor": "Run",
-    "Python.module_2_2.executor": "Debug",
-    "Python.module_2_3.executor": "Run",
-    "Python.module_2_4.executor": "Run",
-    "Python.module_2_5.executor": "Run",
-    "Python.module_2_6.executor": "Debug",
-    "Python.module_2_hard.executor": "Run",
-    "Python.module_3_1.executor": "Run",
-    "Python.module_3_2.executor": "Run",
-    "Python.module_3_3.executor": "Run",
-    "Python.module_3_4.executor": "Run",
-    "Python.module_3_5.executor": "Debug",
-    "Python.module_3_calc.executor": "Run",
-    "Python.module_3_hard.executor": "Run",
-    "Python.module_3_hard2.executor": "Run",
-    "Python.module_4_ prac1.executor": "Run",
-    "Python.module_4_1.executor": "Run",
-    "Python.module_4_2.executor": "Run",
-    "Python.module_5_1.executor": "Run",
-    "Python.module_5_2.executor": "Run",
-    "Python.module_5_3.executor": "Debug",
-    "Python.module_5_4.executor": "Run",
-    "Python.test.executor": "Debug",
-    "Python.true_math.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.module_2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_6.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.module_2_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_5.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.module_3_calc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_hard2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_ prac1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_3.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.true_math.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m4" />
@@ -126,14 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1723819442308</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1723819442308</updated>
     </task>
     <task id="LOCAL-00009" summary="Commit">
       <option name="closed" value="true" />
@@ -519,7 +511,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726240548675</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1726605862851</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1726605862851</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

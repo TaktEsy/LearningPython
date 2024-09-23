@@ -1,16 +1,20 @@
 class House:
+    history = []
+
+    def __new__(cls, *args, **kwargs):
+        print(cls.history.append(args[0]))
+        return super().__new__(cls)
+
     # Конструктор класса
     def __init__(self, name, number_of_floors):
+
         if not isinstance(number_of_floors, int):
             raise TypeError("Этажи должны быть целым числом!")
         self.name = name
         self.number_of_floors = number_of_floors
 
-    def __del__(self):
-        print(f"{self.name} снесён, но он останется в истории")
-
     def __len__(self):
-        return self.number_of_floors
+        return self.number_of_floorsw
 
     def __str__(self):
         return (f"Название: {self.name}; Этажность: {self.number_of_floors}")
@@ -54,6 +58,9 @@ class House:
     def __iadd__(self, value):
         return self.__add__(self, value)
 
+    def __del__(self):
+        print(f"{self.name} снесён, но он останется в истории")
+
     def go_to(self, new_floor):
         if new_floor > self.number_of_floors or new_floor < 1:
             print("Такого этажа не существует!")
@@ -65,39 +72,9 @@ class House:
 
 h1 = House('Бурдж-Халифа', 163)
 h2 = House('Куала-Лумпур', 118)
+h3 = House("ЖК Матрешки", 20)
+print(f'Побывавшие строения: {House.history}')
 
-print(h1)
-print(h2)
-print(h2.number_of_floors)
-
-# __eq__
-
-print("__eq__")
-print(h1 == h2)
-print("_________")
-
-# __add__
-print("__add__")
-h2.number_of_floors = h2 + 45
-print(h1)
-print(h2)
-print(h1 == h2)
-print("_________")
-
-print("__iadd__")
-h2.number_of_floors += 0
-print(h2)
-print("_________")
-
-print("__radd__")
-h2.number_of_floors = 1 + h2.number_of_floors
-print(h2)
-print("_________")
-
-print(h1 > h2)  # __gt__
-print(h1 >= h2)  # __ge__
-print(h1 < h2)  # __lt__
-print(h1 <= h2)  # __le__
-print(h1 != h2)  # __ne__
+print("Чистка памяти Питона:")
 
 
