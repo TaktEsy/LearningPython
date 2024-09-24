@@ -12,10 +12,27 @@ class User:
     """
     def __init__(self, username, password, password_confirm):
         self.username = username
+
         if password == password_confirm:
             self.password = password
 
+
 if __name__ == '__main__':
     db = Database()
-    user = User(input("Login: "), input("Password: "), input("Repeat password: "))
+    user = User(input("Login: "), password := input("Password: "), password_confirm := input("Repeat password: "))
+
+
+    if password != password_confirm:
+        exit('Пароли не совпадают!')
+    elif len(password) < 2:
+        exit('Символов должно быть больше!')
+    else:
+        counter = 0
+        for s in password:
+            if s.isupper():
+                counter += 1
+        if counter == 0:
+            exit('Нет заглавной!')
     db.add_user(user.username, user.password)
+
+    print(db.data)
