@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Коммит 5-го модуля">
+    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Практическая работа">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m5/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/m5/module_5_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m5/module_5_prac1.py" beforeDir="false" afterPath="$PROJECT_DIR$/m5/module_5_prac1.py" afterDir="false" />
@@ -129,14 +129,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1723839215774</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1723839215774</updated>
     </task>
     <task id="LOCAL-00012" summary="Commit">
       <option name="closed" value="true" />
@@ -522,7 +514,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727115449586</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Практическая работа">
+      <option name="closed" value="true" />
+      <created>1727185010884</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1727185010884</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,6 +544,7 @@
     <MESSAGE value="Refactored structure. Moved completed tasks in new folders" />
     <MESSAGE value="Commit" />
     <MESSAGE value="Коммит 5-го модуля" />
-    <option name="LAST_COMMIT_MESSAGE" value="Коммит 5-го модуля" />
+    <MESSAGE value="Практическая работа" />
+    <option name="LAST_COMMIT_MESSAGE" value="Практическая работа" />
   </component>
 </project>
