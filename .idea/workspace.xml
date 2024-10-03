@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
+    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Практическое задание по модулю 6">
       <change afterPath="$PROJECT_DIR$/m5/module _5hard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m6/ping-pong/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m5/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/m5/module_5_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6/ping-pong/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/m6/ping-pong/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,9 @@
     &quot;accountId&quot;: &quot;8edaf3e8-2b5c-4793-adb4-debbd50334b3&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -135,14 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1723918291224</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1723918291224</updated>
     </task>
     <task id="LOCAL-00018" summary="Commit">
       <option name="closed" value="true" />
@@ -528,7 +523,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727964631332</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Практическое задание по модулю 6">
+      <option name="closed" value="true" />
+      <created>1727965768365</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1727965768365</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -552,6 +555,7 @@
     <MESSAGE value="Практическая работа" />
     <MESSAGE value="Практическая работа ч.3" />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Практическое задание по модулю 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Практическое задание по модулю 6" />
   </component>
 </project>
