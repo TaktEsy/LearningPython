@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Практическая работа">
+    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/m5/module _5hard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m6/module_6_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m5/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/m5/module_5_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m5/module_5_prac1.py" beforeDir="false" afterPath="$PROJECT_DIR$/m5/module_5_prac1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.module _5hard.executor": "Run",
     "Python.module_2_1.executor": "Run",
     "Python.module_2_2.executor": "Debug",
     "Python.module_2_3.executor": "Run",
@@ -76,6 +78,8 @@
     "Python.module_5_3.executor": "Debug",
     "Python.module_5_4.executor": "Run",
     "Python.module_5_prac1.executor": "Run",
+    "Python.module_6_1.executor": "Run",
+    "Python.module_6_2.executor": "Run",
     "Python.test.executor": "Run",
     "Python.true_math.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -129,30 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1723908442881</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1723908442881</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1723908807066</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1723908807066</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1723910434538</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1723910434538</updated>
     </task>
     <task id="LOCAL-00015" summary="Commit">
       <option name="closed" value="true" />
@@ -522,7 +502,31 @@
       <option name="project" value="LOCAL" />
       <updated>1727185010884</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Практическая работа ч.3">
+      <option name="closed" value="true" />
+      <created>1727275530832</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1727275530832</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Практическая работа ч.3">
+      <option name="closed" value="true" />
+      <created>1727275543930</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1727275543930</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1727807895410</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1727807895410</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -542,9 +546,10 @@
     <MESSAGE value="Калькулятор&#10;Для практики" />
     <MESSAGE value="Добавлена работоспособность кнопок" />
     <MESSAGE value="Refactored structure. Moved completed tasks in new folders" />
-    <MESSAGE value="Commit" />
     <MESSAGE value="Коммит 5-го модуля" />
     <MESSAGE value="Практическая работа" />
-    <option name="LAST_COMMIT_MESSAGE" value="Практическая работа" />
+    <MESSAGE value="Практическая работа ч.3" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
