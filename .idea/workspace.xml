@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Практическое задание по модулю 6">
+    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="- Imported and repaired &quot;arcade&quot;&#10;- Background  is white">
       <change afterPath="$PROJECT_DIR$/m5/module _5hard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m5/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/m5/module_5_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6/module_6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/m6/module_6_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6/module_6_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/m6/module_6_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m6/ping-pong/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/m6/ping-pong/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
@@ -138,14 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1723921843609</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1723921843609</updated>
     </task>
     <task id="LOCAL-00019" summary="Commit">
       <option name="closed" value="true" />
@@ -531,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727965768365</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="- Imported and repaired &quot;arcade&quot;&#10;- Background  is white">
+      <option name="closed" value="true" />
+      <created>1727967082704</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1727967082704</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -556,6 +558,7 @@
     <MESSAGE value="Практическая работа ч.3" />
     <MESSAGE value="Commit" />
     <MESSAGE value="Практическое задание по модулю 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Практическое задание по модулю 6" />
+    <MESSAGE value="- Imported and repaired &quot;arcade&quot;&#10;- Background  is white" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Imported and repaired &quot;arcade&quot;&#10;- Background  is white" />
   </component>
 </project>

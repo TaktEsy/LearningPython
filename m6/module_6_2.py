@@ -1,15 +1,15 @@
 class Vehicle():
-    owner = str
-    __model = str
-    __engine_power = int
-    __color = str
+    owner: str
+    __model: str
+    __engine_power: int
+    __color: str
     __COLOR_VARIANTS = 'blue', 'yellow', 'red', 'green', 'black', 'white'
 
     def __init__(self, owner, model, color, eng_power):
-        self.owner = owner
-        self.__model = model
-        self.__engine_power = eng_power
-        self.__color = color
+        self.owner = str(owner)
+        self.__model = str(model)
+        self.__engine_power = int(eng_power)
+        self.__color = str(color)
 
     def get_model(self):
         print(f"Модель: {self.__model}")
