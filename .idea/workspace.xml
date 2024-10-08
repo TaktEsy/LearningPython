@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="- Imported and repaired &quot;arcade&quot;&#10;- Background  is white">
+    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Видоизменен код в рамках задания...">
       <change afterPath="$PROJECT_DIR$/m5/module _5hard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m6/module6hard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m6/ping-pong/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m5/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/m5/module_5_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m6/module_6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/m6/module_6_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m6/module_6_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/m6/module_6_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m6/ping-pong/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/m6/ping-pong/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
@@ -57,43 +57,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module _5hard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_2.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_6.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.module_2_hard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_5.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.module_3_calc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_hard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_hard2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_4_ prac1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_3.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_prac1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_6_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_6_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_6_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.true_math.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.game.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.module _5hard.executor": "Run",
+    "Python.module6hard.executor": "Run",
+    "Python.module_2_1.executor": "Run",
+    "Python.module_2_2.executor": "Debug",
+    "Python.module_2_3.executor": "Run",
+    "Python.module_2_4.executor": "Run",
+    "Python.module_2_5.executor": "Run",
+    "Python.module_2_6.executor": "Debug",
+    "Python.module_2_hard.executor": "Run",
+    "Python.module_3_1.executor": "Run",
+    "Python.module_3_2.executor": "Run",
+    "Python.module_3_3.executor": "Run",
+    "Python.module_3_4.executor": "Run",
+    "Python.module_3_5.executor": "Debug",
+    "Python.module_3_calc.executor": "Run",
+    "Python.module_3_hard.executor": "Run",
+    "Python.module_3_hard2.executor": "Run",
+    "Python.module_4_ prac1.executor": "Run",
+    "Python.module_4_1.executor": "Run",
+    "Python.module_4_2.executor": "Run",
+    "Python.module_5_1.executor": "Run",
+    "Python.module_5_2.executor": "Run",
+    "Python.module_5_3.executor": "Debug",
+    "Python.module_5_4.executor": "Run",
+    "Python.module_5_prac1.executor": "Run",
+    "Python.module_6_1.executor": "Run",
+    "Python.module_6_2.executor": "Run",
+    "Python.module_6_3.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.true_math.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m4" />
@@ -102,6 +105,28 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyProj2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/m6/ping-pong" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m6/ping-pong/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="module_2_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pyProj2" />
       <option name="ENV_FILES" value="" />
@@ -124,6 +149,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -140,22 +170,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1723922029921</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1723922029921</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1723922079978</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1723922079978</updated>
     </task>
     <task id="LOCAL-00021" summary="Создает простую матрицу в рамках задания">
       <option name="closed" value="true" />
@@ -533,7 +547,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727967082704</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1727976710389</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1727976710389</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Видоизменен код в рамках задания...">
+      <option name="closed" value="true" />
+      <created>1728038973309</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1728038973309</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -556,9 +586,10 @@
     <MESSAGE value="Коммит 5-го модуля" />
     <MESSAGE value="Практическая работа" />
     <MESSAGE value="Практическая работа ч.3" />
-    <MESSAGE value="Commit" />
     <MESSAGE value="Практическое задание по модулю 6" />
     <MESSAGE value="- Imported and repaired &quot;arcade&quot;&#10;- Background  is white" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Imported and repaired &quot;arcade&quot;&#10;- Background  is white" />
+    <MESSAGE value="Commit" />
+    <MESSAGE value="Видоизменен код в рамках задания..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Видоизменен код в рамках задания..." />
   </component>
 </project>

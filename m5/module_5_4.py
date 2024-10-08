@@ -2,7 +2,7 @@ class House:
     history = []
 
     def __new__(cls, *args, **kwargs):
-        print(cls.history.append(args[0]))
+        cls.history.append(args[0])
         return super().__new__(cls)
 
     # Конструктор класса
