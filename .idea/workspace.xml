@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Видоизменен код в рамках задания...">
-      <change afterPath="$PROJECT_DIR$/m5/module _5hard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m6/module6hard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m6/ping-pong/main.py" afterDir="false" />
+    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m5/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/m5/module_5_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m6/ping-pong/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/m6/ping-pong/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6/module6hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/m6/module6hard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +41,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -59,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python._pydev_execfile.executor": "Run",
     "Python.game.executor": "Run",
     "Python.main.executor": "Run",
     "Python.module _5hard.executor": "Run",
@@ -170,22 +166,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Создает простую матрицу в рамках задания">
-      <option name="closed" value="true" />
-      <created>1723922208373</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1723922208373</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Создает простую матрицу в рамках задания">
-      <option name="closed" value="true" />
-      <created>1723923475685</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1723923475685</updated>
     </task>
     <task id="LOCAL-00023" summary="Крестики-нолики">
       <option name="closed" value="true" />
@@ -563,7 +543,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728038973309</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1728411800108</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1728411800108</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1728411844814</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1728411844815</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -588,8 +584,19 @@
     <MESSAGE value="Практическая работа ч.3" />
     <MESSAGE value="Практическое задание по модулю 6" />
     <MESSAGE value="- Imported and repaired &quot;arcade&quot;&#10;- Background  is white" />
-    <MESSAGE value="Commit" />
     <MESSAGE value="Видоизменен код в рамках задания..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Видоизменен код в рамках задания..." />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
