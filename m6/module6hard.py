@@ -85,11 +85,10 @@ class Triangle(Figure):
         b = float(s[1])
         c = float(s[2])
 
-        p = float(super().__len__()) / 2 # Полупериметр
+        p = float(super().__len__()) / 2.0 # Полупериметр
+        area = sqrt(p*abs(p-a)*abs(p-b)*abs(p-c))
 
-        area = sqrt(p*(p-a)*(p-b)*(p-c))
-
-
+        return area
 
 class Cube(Figure):
     SIDES_COUNT = 12
@@ -114,7 +113,7 @@ print(tria1.get_color())
 print("Стороны: ")
 circle1.set_sides(15)
 cube1.set_sides(28, 24, 5, 5, 55, 6, 7, 7, 8, 9, 7, 2)
-tria1.set_sides(15, 5, 9)
+tria1.set_sides(15, 15, 15)
 print(f"Круг{circle1.get_sides()}")
 print(f"Куб{cube1.get_sides()}")
 print(f"Треугольник{tria1.get_sides()}")
