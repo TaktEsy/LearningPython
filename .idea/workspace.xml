@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
+    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="abs to sqrt for get_square">
+      <change afterPath="$PROJECT_DIR$/m7/module_7_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m6/module6hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/m6/module6hard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +85,7 @@
     "Python.module_6_1.executor": "Run",
     "Python.module_6_2.executor": "Run",
     "Python.module_6_3.executor": "Run",
+    "Python.module_7_1.executor": "Run",
     "Python.test.executor": "Run",
     "Python.true_math.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -166,14 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Крестики-нолики">
-      <option name="closed" value="true" />
-      <created>1723923676712</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1723923676712</updated>
     </task>
     <task id="LOCAL-00025" summary="Commit">
       <option name="closed" value="true" />
@@ -559,7 +552,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728583500791</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="abs to sqrt for get_square">
+      <option name="closed" value="true" />
+      <created>1728590500539</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1728590500540</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -586,7 +587,8 @@
     <MESSAGE value="- Imported and repaired &quot;arcade&quot;&#10;- Background  is white" />
     <MESSAGE value="Видоизменен код в рамках задания..." />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="abs to sqrt for get_square" />
+    <option name="LAST_COMMIT_MESSAGE" value="abs to sqrt for get_square" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
