@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="abs to sqrt for get_square">
-      <change afterPath="$PROJECT_DIR$/m7/module_7_1.py" afterDir="false" />
+    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m7/module_7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/m7/module_7_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,14 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1723989730322</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1723989730322</updated>
     </task>
     <task id="LOCAL-00026" summary="Commit">
       <option name="closed" value="true" />
@@ -560,7 +552,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728590500540</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1728680967787</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1728680967787</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -586,9 +586,9 @@
     <MESSAGE value="Практическое задание по модулю 6" />
     <MESSAGE value="- Imported and repaired &quot;arcade&quot;&#10;- Background  is white" />
     <MESSAGE value="Видоизменен код в рамках задания..." />
-    <MESSAGE value="Commit" />
     <MESSAGE value="abs to sqrt for get_square" />
-    <option name="LAST_COMMIT_MESSAGE" value="abs to sqrt for get_square" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

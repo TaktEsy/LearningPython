@@ -1,4 +1,5 @@
-a = 'hello'
-print(hex(ord('h')))
-bb = b'\x68'
-print(bb.decode())
+from pprint import pprint
+
+name = 'fish_text.txt'
+
+file = open(name, 'r')
