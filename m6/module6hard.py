@@ -5,7 +5,6 @@ class Figure:
     __sides: list
     __color: list
     filled: bool
-    s: bool
 
     # Магия
     def __init__(self, color, *sides):
@@ -46,13 +45,9 @@ class Figure:
             default_sides = []
             while i < self.SIDES_COUNT:
                 default_sides.append(1)
-                i+=1
+                i += 1
             self.__sides = default_sides
-            # print(self.__sides)
-            # i=0
-            # while i <= self.SIDES_COUNT:
-            #     self.__sides[i] = 1
-            #     i+=1
+
 
     # Геттеры
     def get_color(self):
@@ -60,9 +55,6 @@ class Figure:
 
     def get_sides(self):
         return self.__sides
-
-
-
 
 class Circle(Figure):
     SIDES_COUNT = 1
@@ -96,7 +88,7 @@ class Cube(Figure):
         super().__init__(color, *sides)
 
     def get_volume(self):
-        pass
+        return self.get_sides()
 
 circle1 = Circle((200, 200, 100),10)
 cube1 = Cube((000, 000, 000), 4, 2, 5, 4, 5)
@@ -111,15 +103,14 @@ print(cube1.get_color())
 print(tria1.get_color())
 
 print("Стороны: ")
-circle1.set_sides(15)
-cube1.set_sides(28, 24, 5, 5, 55, 6, 7, 7, 8, 9, 7, 2)
-tria1.set_sides(15, 15, 15)
+
 print(f"Круг{circle1.get_sides()}")
 print(f"Куб{cube1.get_sides()}")
 print(f"Треугольник{tria1.get_sides()}")
 
-print("Периметр круга")
-print(circle1.__len__())
+
+print(f"Периметр круга: {circle1.__len__()}")
+print(f"Периметр Куба: {cube1.__len__()}")
 
 print("Площадь треугольника")
 print(tria1.get_square())
