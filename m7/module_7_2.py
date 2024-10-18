@@ -14,7 +14,7 @@ def custom_write(name, strs=None):
 
     strings_positions = dict(zip(pstr, lstr))
 
-    print(strings_positions)
+    return strings_positions
 info = [
     'Text for tell.',
     'Используйте кодировку utf-8.',
@@ -22,6 +22,6 @@ info = [
     'Спасибо!'
     ]
 
-custom_write('text.txt', strs=info)
+print(custom_write('text.txt', strs=info))
 
 print()
