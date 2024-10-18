@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/m9/module_9_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m5/module _5hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/m5/module _5hard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m7/fish_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/m7/fish_text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
     "Python._pydev_execfile.executor": "Run",
     "Python.game.executor": "Run",
     "Python.main.executor": "Run",
-    "Python.module _5hard.executor": "Debug",
+    "Python.module _5hard.executor": "Run",
     "Python.module6hard.executor": "Run",
     "Python.module_2_1.executor": "Debug",
     "Python.module_2_2.executor": "Debug",
@@ -87,6 +87,7 @@
     "Python.module_6_2.executor": "Run",
     "Python.module_6_3.executor": "Run",
     "Python.module_7_1.executor": "Run",
+    "Python.module_9_1.executor": "Run",
     "Python.test.executor": "Run",
     "Python.true_math.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -168,14 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1724150969705</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1724150969705</updated>
     </task>
     <task id="LOCAL-00032" summary="Commit">
       <option name="closed" value="true" />
@@ -561,7 +554,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729170871774</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1729259396339</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1729259396339</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -601,8 +602,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/m5/module _5hard.py</url>
-          <line>133</line>
+          <line>130</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/m9/module_9_1.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
