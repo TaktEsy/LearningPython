@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/m7/module_7_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m7/fish_text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/m7/fish_text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m7/module_7_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/m7/module_7_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m7/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/m7/text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +94,7 @@
     "Python.test.executor": "Run",
     "Python.true_math.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "terminal"
@@ -170,14 +173,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1724237438874</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1724237438874</updated>
     </task>
     <task id="LOCAL-00034" summary="Commit">
       <option name="closed" value="true" />
@@ -563,7 +558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729261717552</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1729264409109</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1729264409109</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
