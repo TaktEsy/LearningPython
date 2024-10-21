@@ -22,6 +22,6 @@ info = [
     'Спасибо!'
     ]
 
-print(custom_write('text.txt', strs=info))
+print(custom_write('text1_7_3.txt', strs=info))
 
 print()
