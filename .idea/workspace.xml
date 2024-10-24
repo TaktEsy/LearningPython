@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/m7/module_7_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7/module_7_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m7/module_7_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/m7/module_7_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m7/text.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +59,7 @@
     "Python.main.executor": "Run",
     "Python.module _5hard.executor": "Run",
     "Python.module6hard.executor": "Run",
-    "Python.module_2_1.executor": "Debug",
+    "Python.module_2_1.executor": "Run",
     "Python.module_2_2.executor": "Debug",
     "Python.module_2_3.executor": "Run",
     "Python.module_2_4.executor": "Run",
@@ -92,6 +89,7 @@
     "Python.module_7_2.executor": "Run",
     "Python.module_7_3.executor": "Run",
     "Python.module_7_4.executor": "Run",
+    "Python.module_7_5.executor": "Run",
     "Python.module_9_1.executor": "Run",
     "Python.test.executor": "Run",
     "Python.true_math.executor": "Run",
@@ -179,14 +177,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Добавлена работоспособность кнопок">
-      <option name="closed" value="true" />
-      <created>1724522573548</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1724522573548</updated>
     </task>
     <task id="LOCAL-00040" summary="Добавлена работоспособность кнопок">
       <option name="closed" value="true" />
@@ -572,7 +562,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729536104513</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1729536190965</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1729536190965</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -614,6 +612,11 @@
           <url>file://$PROJECT_DIR$/m7/module_7_3.py</url>
           <line>48</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/m7/module_7_5.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
