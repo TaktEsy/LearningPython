@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
       <change afterPath="$PROJECT_DIR$/m7/pract_7_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m8/module_8_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8/module_8_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +92,7 @@
     "Python.module_7_4.executor": "Run",
     "Python.module_7_5.executor": "Run",
     "Python.module_8_1.executor": "Run",
+    "Python.module_8_2.executor": "Run",
     "Python.module_9_1.executor": "Run",
     "Python.pract_7_1.executor": "Run",
     "Python.test.executor": "Run",
@@ -180,14 +181,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1725200943792</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1725200943792</updated>
     </task>
     <task id="LOCAL-00043" summary="Commit">
       <option name="closed" value="true" />
@@ -573,7 +566,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729789692617</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1729846255486</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1729846255486</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -606,12 +607,12 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/m7/module_7_3.py</url>
           <line>49</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/m7/module_7_3.py</url>
           <line>48</line>
           <option name="timeStamp" value="41" />
