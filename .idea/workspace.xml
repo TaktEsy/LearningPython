@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
       <change afterPath="$PROJECT_DIR$/m7/pract_7_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m8/module_8_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m8/module_8_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m9/module_9_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapper/test2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
@@ -97,6 +98,7 @@
     "Python.module_8_2.executor": "Run",
     "Python.module_8_3.executor": "Run",
     "Python.module_9_1.executor": "Run",
+    "Python.module_9_2.executor": "Run",
     "Python.pract_7_1.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test2.executor": "Run",
@@ -114,6 +116,7 @@
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\pyProj2\scrapper" />
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m4" />
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m3" />
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m2" />
@@ -185,14 +188,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1725202864097</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1725202864097</updated>
     </task>
     <task id="LOCAL-00045" summary="Refactored structure. Moved completed tasks in new folders">
       <option name="closed" value="true" />
@@ -578,7 +573,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729865350648</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1730306249872</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1730306249872</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -625,7 +628,7 @@
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test2.py</url>
+          <url>file://$PROJECT_DIR$/scrapper/test2.py</url>
           <line>158</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
