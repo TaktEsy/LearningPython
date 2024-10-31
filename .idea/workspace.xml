@@ -7,7 +7,7 @@
     <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
       <change afterPath="$PROJECT_DIR$/m7/pract_7_1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/m8/module_8_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m9/module_9_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m9/module_9_4.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/scrapper/test2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
@@ -51,7 +51,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2kbl7w9C2qPsrdBmb32KE10GcjE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -100,6 +102,7 @@
     "Python.module_9_1.executor": "Run",
     "Python.module_9_2.executor": "Run",
     "Python.module_9_3.executor": "Run",
+    "Python.module_9_4.executor": "Run",
     "Python.pract_7_1.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test2.executor": "Run",
@@ -189,14 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1725283153088</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1725283153088</updated>
     </task>
     <task id="LOCAL-00047" summary="Commit">
       <option name="closed" value="true" />
@@ -582,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730310524164</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1730313333185</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1730313333185</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="UnknownFeatures">
