@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
       <change afterPath="$PROJECT_DIR$/m7/pract_7_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m9/module_9_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m9/module_9_6.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/scrapper/test2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
@@ -103,6 +103,7 @@
     "Python.module_9_3.executor": "Run",
     "Python.module_9_4.executor": "Run",
     "Python.module_9_5.executor": "Run",
+    "Python.module_9_6.executor": "Run",
     "Python.pract_7_1.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test2.executor": "Run",
@@ -192,14 +193,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1725372346166</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1725372346166</updated>
     </task>
     <task id="LOCAL-00050" summary="Commit">
       <option name="closed" value="true" />
@@ -585,7 +578,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730395767102</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1730485087003</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1730485087003</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -635,6 +636,11 @@
           <url>file://$PROJECT_DIR$/scrapper/test2.py</url>
           <line>158</line>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/m9/module_9_6.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
