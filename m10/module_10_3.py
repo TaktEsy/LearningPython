@@ -4,7 +4,6 @@ class Bank:
     balance = 0
     lock = threading.Lock()
 
-
     def deposit(self):
 
         for i in range(1,101):
