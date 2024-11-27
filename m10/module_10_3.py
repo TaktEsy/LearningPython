@@ -38,33 +38,3 @@ th2.join()
 
 print(f'Итоговый баланс: {bk.balance}')
 
-# import threading
-# counter = 0
-# l = threading.Lock()
-# def increment(name):
-#     global counter
-#     l.acquire()
-#
-#     for i in range(0,1000):
-#         counter += 1
-#         print(f"\n{name, counter}")
-#     l.release()
-# def decrement(name):
-#     global counter
-#     l.acquire()
-#
-#     for i in range(0,1000):
-#         counter -= 1
-#         print(f"\n{name, counter}")
-#     l.release()
-#
-#
-# t1 = threading.Thread(target=increment, args=('t1',))
-# t2 = threading.Thread(target=decrement, args=('t2',))
-# t3 = threading.Thread(target=increment, args=('t3',))
-# t4 = threading.Thread(target=decrement, args=('t4',))
-#
-# t1.start()
-# t2.start()
-# t3.start()
-# t4.start()
