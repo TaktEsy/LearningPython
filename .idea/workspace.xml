@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Внесены исправления">
-      <change afterPath="$PROJECT_DIR$/m10/module_10_3.py" afterDir="false" />
+    <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/m1/module_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m10/module_10_4.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/m10/test.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/m7/pract_7_1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/m9/module_9_prac.py" afterDir="false" />
@@ -67,9 +68,11 @@
     "Python.main.executor": "Run",
     "Python.module _5hard.executor": "Run",
     "Python.module6hard.executor": "Run",
+    "Python.module_1.executor": "Run",
     "Python.module_10_1.executor": "Run",
     "Python.module_10_2.executor": "Run",
     "Python.module_10_3.executor": "Run",
+    "Python.module_10_4.executor": "Run",
     "Python.module_2_1.executor": "Run",
     "Python.module_2_2.executor": "Debug",
     "Python.module_2_3.executor": "Run",
@@ -201,30 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1726237816615</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1726237816615</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1726240548675</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1726240548675</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1726605862851</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1726605862851</updated>
     </task>
     <task id="LOCAL-00058" summary="Commit">
       <option name="closed" value="true" />
@@ -594,7 +573,31 @@
       <option name="project" value="LOCAL" />
       <updated>1732635134504</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Внесены исправления">
+      <option name="closed" value="true" />
+      <created>1732729191951</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1732729191951</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Внесены исправления">
+      <option name="closed" value="true" />
+      <created>1732729211459</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1732729211459</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1732729272225</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1732729272225</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -624,9 +627,9 @@
     <MESSAGE value="- Imported and repaired &quot;arcade&quot;&#10;- Background  is white" />
     <MESSAGE value="Видоизменен код в рамках задания..." />
     <MESSAGE value="abs to sqrt for get_square" />
-    <MESSAGE value="Commit" />
     <MESSAGE value="Внесены исправления" />
-    <option name="LAST_COMMIT_MESSAGE" value="Внесены исправления" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
