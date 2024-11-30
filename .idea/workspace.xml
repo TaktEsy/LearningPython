@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/m1/module_1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/m10/module_10_4.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/m10/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m12/add/runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m12/module_12_1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/m7/pract_7_1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/m9/module_9_prac.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/scrapper/test2.py" afterDir="false" />
@@ -63,6 +64,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in module_12_1.py.executor": "Run",
     "Python._pydev_execfile.executor": "Run",
     "Python.game.executor": "Run",
     "Python.main.executor": "Run",
@@ -123,19 +125,21 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/pyProj2/m7",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/pyProj2/m12/ additional",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m12\ additional" />
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m12" />
+      <recent name="C:\Users\Admin\PycharmProjects\pyProj2" />
+      <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m1" />
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2\scrapper" />
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m4" />
-      <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m3" />
-      <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m2" />
     </key>
   </component>
   <component name="RunManager">
@@ -204,14 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1727110647931</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1727110647931</updated>
     </task>
     <task id="LOCAL-00059" summary="Коммит 5-го модуля">
       <option name="closed" value="true" />
@@ -597,7 +593,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732729272225</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1732894479340</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1732894479340</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="UnknownFeatures">
