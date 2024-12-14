@@ -5,13 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5f19ec3-30e2-4de5-a94a-013fb3e89b3a" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/m10/module_10_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1/module_0_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1/module_0_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1/module_1_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1/module_1_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1/module_1_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1/module_1_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m10/res/file 1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m10/res/file 2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m10/res/file 3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m10/res/file 4.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/m10/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m11/module_11_pract.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/m12/add/runner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m12/module_12_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m12/module_12_2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/m7/pract_7_1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/m9/module_9_prac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/scrapper/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyProj2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyProj2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m9/module_9_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/m9/module_9_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
@@ -49,7 +64,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -66,6 +81,7 @@
   "keyToString": {
     "Python tests.Python tests in module_12_1.py.executor": "Run",
     "Python._pydev_execfile.executor": "Run",
+    "Python.activate_this.executor": "Run",
     "Python.game.executor": "Run",
     "Python.main.executor": "Run",
     "Python.module _5hard.executor": "Run",
@@ -75,6 +91,10 @@
     "Python.module_10_2.executor": "Run",
     "Python.module_10_3.executor": "Run",
     "Python.module_10_4.executor": "Run",
+    "Python.module_10_5.executor": "Run",
+    "Python.module_11_1.executor": "Run",
+    "Python.module_11_pract.executor": "Run",
+    "Python.module_12_2.executor": "Run",
     "Python.module_2_1.executor": "Run",
     "Python.module_2_2.executor": "Debug",
     "Python.module_2_3.executor": "Run",
@@ -125,8 +145,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/pyProj2/m12/ additional",
-    "settings.editor.selected.configurable": "terminal"
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/TestVenvGitProj",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -135,11 +156,11 @@
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m10\res" />
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m12" />
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2" />
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m1" />
       <recent name="C:\Users\Admin\PycharmProjects\pyProj2\scrapper" />
-      <recent name="C:\Users\Admin\PycharmProjects\pyProj2\m4" />
     </key>
   </component>
   <component name="RunManager">
@@ -208,46 +229,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723559993062</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Коммит 5-го модуля">
-      <option name="closed" value="true" />
-      <created>1727115449586</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1727115449586</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Практическая работа">
-      <option name="closed" value="true" />
-      <created>1727185010884</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1727185010884</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Практическая работа ч.3">
-      <option name="closed" value="true" />
-      <created>1727275530832</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1727275530832</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Практическая работа ч.3">
-      <option name="closed" value="true" />
-      <created>1727275543930</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1727275543930</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Commit">
-      <option name="closed" value="true" />
-      <created>1727807895410</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1727807895410</updated>
     </task>
     <task id="LOCAL-00064" summary="Commit">
       <option name="closed" value="true" />
@@ -601,7 +582,47 @@
       <option name="project" value="LOCAL" />
       <updated>1732894479340</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1732990294455</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1732990294455</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1733519912267</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1733519912267</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1733594168789</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1733594168789</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1733601256562</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1733601256562</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1734189993522</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1734189993522</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="UnknownFeatures">

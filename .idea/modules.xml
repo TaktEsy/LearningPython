@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../TestVenvGitProj/.idea/TestVenvGitProj.iml" filepath="$PROJECT_DIR$/../TestVenvGitProj/.idea/TestVenvGitProj.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pyProj2.iml" filepath="$PROJECT_DIR$/.idea/pyProj2.iml" />
     </modules>
   </component>
