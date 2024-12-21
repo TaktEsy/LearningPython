@@ -4,7 +4,7 @@ async def start_strongman(name, power):
     ball = 1
     print(f"Силач {name} начал соревнования")
     while ball <= 5:
-        await asyncio.sleep(power)
+        await asyncio.sleep(1/power)
         print(f"Силач {name} поднял {ball} шар.'")
         if ball == 5:
 
